@@ -1,4 +1,7 @@
 # ACSAC22-Artifacts
+
+Paper: Sabry, Moe, and Reza Samavi. "ArchiveSafe LT: Secure Long-term Archiving System." Proceedings of the 38th Annual Computer Security Applications Conference (ACSAC). 2022.
+Slides: https://www.acsac.org/2022/program/papers/128-sabry-resilience_and_data_protection.pdf
 ArchiveSafe LT ACSAC '22 Artifacts
 
 The artifacts are divided into three groups:

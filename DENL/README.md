@@ -1,13 +1,10 @@
 Papers: 
-Liang, Yuting, and Reza Samavi. "Advanced defensive distillation with ensemble voting and noisy logits." Applied Intelligence 53.3 (2023): 3069-3094.
-Yuting Liang and Reza Samavi. Towards Robust Deep Learning with Ensemble Networks and Noisy Layers. AAAI Workshop on RSEML, 2021 (https://arxiv.org/abs/2007.01507)
+Yazdani, Mina, Hamed Karimi, and Reza Samavi. "DENL: Diverse Ensemble and Noisy Logits for Improved Robustness of Neural Networks." 
 
-This repo contains official code for the implementation of the algorithms in the paper ["Optimization-based anonymity algorithms"](https://www.sciencedirect.com/science/article/pii/S0167404820300377). 
-
-# nn_robust_ensemble
+# denl_ensemble
 
 ## Getting Started
-A large part of the code is based on Carlini's nn_robust_attacks project https://github.com/carlini/nn_robust_attacks. The functions written specifically for this project are preceded by comments to briefly describe what they are. Comments also appear in important steps in the code.
+
 
 ### Prerequisites
 The following python modules are required to run this code:
