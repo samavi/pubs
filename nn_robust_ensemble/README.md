@@ -1,8 +1,10 @@
 Papers: 
+
 Liang, Yuting, and Reza Samavi. "Advanced defensive distillation with ensemble voting and noisy logits." Applied Intelligence 53.3 (2023): 3069-3094.
+
 Yuting Liang and Reza Samavi. Towards Robust Deep Learning with Ensemble Networks and Noisy Layers. AAAI Workshop on RSEML, 2021 (https://arxiv.org/abs/2007.01507)
 
-This repo contains official code for the implementation of the algorithms in the paper ["Optimization-based anonymity algorithms"](https://www.sciencedirect.com/science/article/pii/S0167404820300377). 
+
 
 # nn_robust_ensemble
 
