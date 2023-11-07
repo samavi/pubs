@@ -1,7 +1,7 @@
 Papers: 
 Yazdani, Mina, Hamed Karimi, and Reza Samavi. "DENL: Diverse Ensemble and Noisy Logits for Improved Robustness of Neural Networks." 
 
-# denl_ensemble
+# DENL
 
 ## Getting Started
 
