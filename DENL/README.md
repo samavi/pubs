@@ -21,17 +21,17 @@ Run the script main_of_mains_cross_validation.py.
 - main_of_mains_cross_validation.py: This code file is the main code to run our proposed method and produce the results. To run the code, you need to 
 set/use the flags to set up the details of the experiments. This code uses the following Python files:
 
-- train_models_ensemble.py: This code file contains the functions required for phase 1 training. 
+- ***train_models_ensemble.py***: This code file contains the functions required for phase 1 training. 
 
-- ensemble-training_utils.py: This code file contains the functions required for phase 2 training.
+- ***ensemble-training_utils.py***: This code file contains the functions required for phase 2 training.
  
-- l2_attack.py: This code file is to attack a network optimizing for l_2 distance.
+- ***l2_attack.py***: This code file is to attack a network optimizing for $l_2$ distance.
 
-- setup_cifar.py, setup_mnist.py: These code files are to prepare the datasets and CNN models for the experiments.
+- ***setup_cifar.py***, ***setup_mnist.py***: These code files are to prepare the datasets and CNN models for the experiments.
 
-- test_ensemble_func.py: This code file generates adversarial examples with two attack scenarios (single attack and superimposition attack).
+- ***test_ensemble_func.py***: This code file generates adversarial examples with two attack scenarios (single attack and superimposition attack).
 
-- process_results.py: This code file processes the results of the experiments.
+- ***process_results.py***: This code file processes the results of the experiments.
 
 
 
