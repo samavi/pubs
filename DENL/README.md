@@ -1,5 +1,5 @@
 **Paper:** 
-Yazdani, Mina, Hamed Karimi, and Reza Samavi. "DENL: Diverse Ensemble and Noisy Logits for Improved Robustness of Neural Networks." Accepted in The 15th Asian Conference on Machine Learning (ACML 2023).
+Mina Yazdani, Hamed Karimi, and Reza Samavi. "DENL: Diverse Ensemble and Noisy Logits for Improved Robustness of Neural Networks." Accepted in The 15th Asian Conference on Machine Learning (ACML 2023).
 
 
 # DENL: Diverse Ensemble and Noisy Logits
