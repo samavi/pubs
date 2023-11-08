@@ -2,7 +2,7 @@
 # DENL: Diverse Ensemble and Noisy Logits
 
 **Paper:** 
-Mina Yazdani, Hamed Karimi, and Reza Samavi. "DENL: Diverse Ensemble and Noisy Logits for Improved Robustness of Neural Networks." Accepted in The 15th Asian Conference on Machine Learning (ACML 2023).
+Mina Yazdani, Hamed Karimi, and Reza Samavi. "*DENL: Diverse Ensemble and Noisy Logits for Improved Robustness of Neural Networks*." Accepted in The 15th Asian Conference on Machine Learning (ACML 2023).
 
 
 ## Getting Started
@@ -15,11 +15,11 @@ The following python modules are required to run the code:
 - Keras (neural network models)
 - Matplotlib (graphing utilities)
 
-### Running the experiments (both training time and inference time)
-Run the script ***main_of_mains_cross_validation.py***.
+### Running the experiments
+Run the script ***main_of_mains_cross_validation.py*** for both training time and inference time.
 
 ### Files Descriptions
-- main_of_mains_cross_validation.py: This code file is the main code to run our proposed method and produce the results. To run the code, you need to 
+- ***main_of_mains_cross_validation.py***: This code file is the main code to run our proposed method and produce the results. To run the code, you need to 
 set/use the flags to set up the details of the experiments. This code uses the following Python files:
 
 - ***train_models_ensemble.py***: This code file contains the functions required for phase 1 training. 
